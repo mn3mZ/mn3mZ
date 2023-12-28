@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mn3mZ
+- 👋 Hi, I’m @mahmoud amr
 - 👀 I’m interested in iot
 - 🌱 I’m currently learning embadded system
 - 💞️ I’m looking to collaborate on my projects
